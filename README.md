@@ -8,7 +8,7 @@
 - 👌 let preferenciasPersonales = {
                                     "Back-end": "node.js",
                                     "Front-end": "react",
-- } ;
+ } ;
 - 🤩 Gracias por tu tiempo y atencion!!!
 - ⚡ Continuara.... ;
 
